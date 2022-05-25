@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_address_sections",
+  "info": {
+    "displayName": "Address Section",
+    "icon": "ambulance",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "Address": {
+      "type": "richtext"
+    },
+    "contactNumbers": {
+      "type": "richtext"
+    },
+    "emails": {
+      "type": "richtext"
+    }
+  }
+}

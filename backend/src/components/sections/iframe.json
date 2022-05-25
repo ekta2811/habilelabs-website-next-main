@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_iframes",
+  "info": {
+    "displayName": "Iframe",
+    "icon": "expand"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}

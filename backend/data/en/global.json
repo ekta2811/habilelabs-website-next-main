@@ -1,0 +1,109 @@
+{
+  "global": {
+    "id": 1,
+    "locale": "en",
+    "metaTitleSuffix": "Strapi Corporate",
+    "metadata": {
+      "id": 1,
+      "metaTitle": "Strapi starter for Corporate Sites",
+      "metaDescription": "Build your corporate site with Strapi",
+      "twitterCardType": "summary",
+      "twitterUsername": "strapijs",
+      "shareImage": null
+    },
+    "notificationBanner": {
+      "id": 1,
+      "text": "This page was built using the Strapi starter for Corporate Sites.\n[View other Strapi starters](https://strapi.io/starters)",
+      "type": "info"
+    },
+    "navbar": {
+      "id": 1,
+      "links": [
+        {
+          "id": 1,
+          "url": "/services",
+          "newTab": false,
+          "text": "Services"
+        },
+        {
+          "id": 2,
+          "url": "/industries",
+          "newTab": false,
+          "text": "Industries"
+        },
+        {
+          "id": 3,
+          "url": "/case-studies",
+          "newTab": false,
+          "text": "Case Studies"
+        },
+        {
+          "id": 4,
+          "url": "/insights",
+          "newTab": false,
+          "text": "Insights"
+
+        },
+        {
+          "id": 5,
+          "url": "/about-us",
+          "newTab": false,
+          "text": "About Us"
+        },
+        {
+          "id": 6,
+          "url": "/career",
+          "newTab": false,
+          "text": "Career"
+        },
+        {
+          "id": 7,
+          "url": "/contact-us",
+          "newTab": false,
+          "text": "Contact Us"
+        }
+      ],
+      "button": {
+        "id": 13,
+        "url": "#",
+        "newTab": false,
+        "text": "Sign up",
+        "type": "secondary"
+      },
+      "logo" : null
+    },
+    "footer": {
+      "id": 1,
+      "links": [
+        {
+          "id": 11,
+          "url": "#",
+          "newTab": false,
+          "text": "Features"
+        },
+        {
+          "id": 13,
+          "url": "#",
+          "newTab": false,
+          "text": "Sign up"
+        }
+      ],
+      "socialLinks": [
+        {
+          "id": 1,
+          "url": "#",
+          "newTab": false,
+          "text": "facebook",
+          "icon" : null
+        }
+      ]
+    },
+    "favicon": null,
+    "localizations": [
+      {
+        "id": 2,
+        "locale": "fr"
+      }
+    ]
+  }
+}

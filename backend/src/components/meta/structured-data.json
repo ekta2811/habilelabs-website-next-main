@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_meta_structured_data",
+  "info": {
+    "displayName": "structuredData",
+    "icon": "assistive-listening-systems"
+  },
+  "options": {},
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}

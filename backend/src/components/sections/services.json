@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_services",
+  "info": {
+    "displayName": "services",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "groups": {
+      "displayName": "service groups",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.service-groups"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_sections_related_case_studies",
+  "info": {
+    "displayName": "Related Case Studies",
+    "icon": "blog",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "caseStudies": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.case-study"
+    },
+    "viewAllButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "dark",
+        "light"
+      ]
+    }
+  }
+}

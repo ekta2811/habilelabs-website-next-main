@@ -1,0 +1,27 @@
+{
+  "pagesFR": [
+    {
+      "id": 5,
+      "slug": "",
+      "locale": "fr",
+      "localizations": [
+        {
+          "id": 1,
+          "locale": "en"
+        }
+      ],
+      "shortName": "Home",
+      "publishedAt":"2021-10-22T08:11:55.490Z",
+      "metadata": {
+        "id": 6,
+        "metaTitle": "Strapi corporate site starter",
+        "metaDescription": "Construire un site modifiable avec Strapi",
+        "twitterCardType": "summary",
+        "twitterUsername": null,
+        "shareImage": null
+      },
+      "contentSections": [
+      ]
+    }
+  ]
+}

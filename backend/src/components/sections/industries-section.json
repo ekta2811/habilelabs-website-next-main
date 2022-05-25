@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_sections_industries_sections",
+  "info": {
+    "displayName": "Featured Industries",
+    "icon": "align-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "featuredIndustries": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature-box"
+    },
+    "title": {
+      "type": "richtext"
+    },
+    "link_industries": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    }
+  }
+}

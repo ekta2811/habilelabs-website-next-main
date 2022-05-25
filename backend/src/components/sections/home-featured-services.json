@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_home_featured_services",
+  "info": {
+    "displayName": "Home Featured services",
+    "icon": "bolt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.featured-service"
+    }
+  }
+}

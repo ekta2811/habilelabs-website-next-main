@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_links_menu_groups",
+  "info": {
+    "name": "MenuGroup",
+    "displayName": "Menu group",
+    "icon": "chevron-circle-down",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

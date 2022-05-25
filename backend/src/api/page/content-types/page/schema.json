@@ -1,0 +1,95 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page",
+    "name": "page",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "shortName": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.metadata",
+      "required": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "contentSections": {
+      "type": "dynamiczone",
+      "components": [
+        "sections.bottom-actions",
+        "sections.culture",
+        "sections.hero",
+        "sections.hire-group",
+        "sections.industries-section",
+        "sections.large-video",
+        "sections.lead-form",
+        "sections.motto",
+        "sections.rich-text",
+        "sections.services",
+        "sections.services-model",
+        "sections.testimonials-group",
+        "sections.contact-us",
+        "sections.service-hero",
+        "sections.insights",
+        "sections.our-approach",
+        "sections.our-offerings",
+        "sections.related-case-studies",
+        "sections.home-featured-services",
+        "sections.about-us-hero",
+        "sections.social-media",
+        "sections.address-section",
+        "sections.contact-us-hero",
+        "sections.feature-column-group",
+        "sections.work-life-section",
+        "sections.featured-stories-hero",
+        "sections.our-team",
+        "sections.stackholders",
+        "sections.rich-text-and-background",
+        "sections.case-studies-list",
+        "sections.featured-blogs",
+        "sections.join-us-text",
+        "sections.company-updates",
+        "sections.iframe"
+      ],
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "slug": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string",
+      "regex": "^$|^[a-zA-Z/-]+$"
+    }
+  }
+}

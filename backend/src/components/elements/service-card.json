@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_elements_service_cards",
+  "info": {
+    "displayName": "service card",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_stackholders",
+  "info": {
+    "displayName": "Stackholders",
+    "icon": "bullseye",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "stackholders": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.logos"
+    },
+    "animation": {
+      "type": "json"
+    }
+  }
+}

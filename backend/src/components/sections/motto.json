@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_mottos",
+  "info": {
+    "displayName": "motto",
+    "icon": "broadcast-tower"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Aims": {
+      "displayName": "aims",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.aims"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_sections_service_heroes",
+  "info": {
+    "displayName": "Service Hero",
+    "icon": "asterisk",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "animation": {
+      "type": "json"
+    },
+    "mobileAnimation": {
+      "type": "json"
+    },
+    "breadcrumbs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    },
+    "sideImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

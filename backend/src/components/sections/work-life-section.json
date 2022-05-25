@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_sections_work_life_sections",
+  "info": {
+    "displayName": "Work Life Section",
+    "icon": "balance-scale",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "shortDescription": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "featured": {
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.feature-column"
+    },
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    }
+  }
+}

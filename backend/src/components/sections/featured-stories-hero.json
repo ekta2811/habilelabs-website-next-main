@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_featured_stories_heroes",
+  "info": {
+    "displayName": "Featured Stories Hero",
+    "icon": "chart-pie"
+  },
+  "options": {},
+  "attributes": {
+    "stories": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.featured-story"
+    }
+  }
+}

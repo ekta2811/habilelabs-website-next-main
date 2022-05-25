@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_case_studies_lists",
+  "info": {
+    "displayName": "case studies list",
+    "icon": "grip-horizontal",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    }
+  }
+}

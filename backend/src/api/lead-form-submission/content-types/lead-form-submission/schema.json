@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lead_form_submissions",
+  "info": {
+    "singularName": "lead-form-submission",
+    "pluralName": "lead-form-submissions",
+    "displayName": "Lead",
+    "name": "lead-form-submission",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
+    },
+    "file": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "contactsource": {
+      "type": "string"
+    },
+    "contactno": {
+      "type": "integer"
+    }
+  }
+}

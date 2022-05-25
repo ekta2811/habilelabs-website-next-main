@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_sections_contact_us_heroes",
+  "info": {
+    "displayName": "Contact Us Hero",
+    "icon": "audio-description",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "joinUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.feature-column"
+    },
+    "contactUs": {
+      "displayName": "contactUs",
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.contact-us"
+    }
+  }
+}

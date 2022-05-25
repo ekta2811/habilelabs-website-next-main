@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_sections_cultures",
+  "info": {
+    "displayName": "Work Culture",
+    "icon": "biking",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    },
+    "galleries": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.gallery",
+      "min": 2,
+      "required": true,
+      "max": 3
+    }
+  }
+}

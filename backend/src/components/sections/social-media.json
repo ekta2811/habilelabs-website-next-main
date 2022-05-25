@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_social_medias",
+  "info": {
+    "displayName": "Social Media",
+    "icon": "ellipsis-h"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "socialLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.icon-link"
+    }
+  }
+}

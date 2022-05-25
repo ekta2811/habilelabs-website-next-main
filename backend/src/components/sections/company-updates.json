@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_sections_company_updates",
+  "info": {
+    "displayName": "company updates",
+    "icon": "chart-line",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "updates": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature-box",
+      "min": 2,
+      "max": 4,
+      "required": false
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_sections_rich_text_and_backgrounds",
+  "info": {
+    "displayName": "RichText & Background",
+    "icon": "crop-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "backgroundImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

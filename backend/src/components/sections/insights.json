@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_sections_insights",
+  "info": {
+    "displayName": "Related Insights",
+    "icon": "air-freshener",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "insights": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature-box"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ],
+      "default": "light"
+    }
+  }
+}

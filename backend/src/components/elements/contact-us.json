@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_elements_contactuses",
+  "info": {
+    "displayName": "contactUs",
+    "icon": "beer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "buttonText": {
+      "type": "string"
+    },
+    "formTitle": {
+      "type": "string"
+    },
+    "formDescription": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "formButtonText": {
+      "type": "string"
+    }
+  }
+}

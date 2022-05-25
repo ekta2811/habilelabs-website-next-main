@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_our_offerings",
+  "info": {
+    "displayName": "Our Offerings",
+    "icon": "cogs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "offerings": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature-box"
+    }
+  }
+}

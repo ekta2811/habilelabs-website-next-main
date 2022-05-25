@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost:3000/edtech</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.647Z</lastmod></url>
+<url><loc>http://localhost:3000/careers</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/food</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/telecom</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/ai-ml</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/manufacturing-maintenance-utilities</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/privacy-policy</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/case-studies</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/api-development</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/media-entertainment</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/agile</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/backend-solutions</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/cloud-infrastructure</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/erp-solutions</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/fintech</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/retail</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/job-opportunities</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/custom-application-development</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/cyber-security</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/frontend-solutions</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/healthcare</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/technical-outsourcing</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+<url><loc>http://localhost:3000/data-analytics-bi</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-11T11:31:05.648Z</lastmod></url>
+</urlset>

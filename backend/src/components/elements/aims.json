@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_elements_aims",
+  "info": {
+    "displayName": "aims",
+    "icon": "paint-brush"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "richtext"
+    },
+    "card": {
+      "displayName": "aimCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.aim-card"
+    }
+  }
+}

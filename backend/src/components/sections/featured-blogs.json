@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_sections_featured_blogs",
+  "info": {
+    "displayName": "featured blogs",
+    "icon": "dice-four",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtext": {
+      "type": "string"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": [
+        "row",
+        "column"
+      ]
+    },
+    "featuredBlog": {
+      "type": "boolean"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    },
+    "featured_stories": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::story.story"
+    }
+  }
+}

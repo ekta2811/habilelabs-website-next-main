@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "slug": "",
+      "locale": "en",
+      "localizations": [
+        {
+          "id": 5,
+          "locale": "fr"
+        }
+      ],
+      "shortName": "Home",
+      "publishedAt": "2021-10-22T08:11:55.490Z",
+      "metadata": {
+        "id": 2,
+        "metaTitle": "Strapi corporate site starter",
+        "metaDescription": "Build a fully editable site with Strapi",
+        "twitterCardType": "summary",
+        "twitterUsername": null,
+        "shareImage": null
+      },
+      "contentSections": [
+        {
+          "id": 1,
+          "__component": "sections.hero",
+          "title": "The best way to build your Corporate Site",
+          "label": "New Strapi starter",
+          "description": "Get started with your Strapi business website in seconds.",
+          "buttons": [
+            {
+              "id": 1,
+              "url": "https://github.com/strapi/strapi-template-corporate",
+              "newTab": false,
+              "text": "Get started",
+              "type": "primary"
+            },
+            {
+              "id": 2,
+              "url": "https://github.com/strapi/strapi-template-corporate",
+              "newTab": true,
+              "text": "See the code",
+              "type": "secondary"
+            }
+          ],
+          "picture": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_hire_groups",
+  "info": {
+    "displayName": "hire group",
+    "icon": "highlighter"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "text"
+    },
+    "action": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.button-link"
+    }
+  }
+}

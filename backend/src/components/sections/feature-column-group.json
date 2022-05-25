@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_feature_column_groups",
+  "info": {
+    "displayName": "Feature Column Group",
+    "icon": "bars",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature-column"
+    },
+    "animation": {
+      "type": "json"
+    },
+    "divider": {
+      "type": "boolean"
+    },
+    "mobileAnimation": {
+      "type": "json"
+    }
+  }
+}
